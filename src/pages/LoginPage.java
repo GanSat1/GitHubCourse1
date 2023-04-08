@@ -7,5 +7,6 @@ public class LoginPage {
         String un = "admin";
         String pass = "pass";
         System.out.println("Logged in ......");
+        System.out.println("Logged out.........");
     }
 }
