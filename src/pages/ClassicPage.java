@@ -10,9 +10,10 @@ public class ClassicPage {
         System.out.println(m);
        
         int age = 25;
-        int sal = 12;
+        int sal = 15;
 
-
-
+        System.out.println("Local new addition");
+        int h = 10;
+        
     }
 }
