@@ -12,7 +12,8 @@ public class ClassicPage {
         int age = 25;
         int sal = 12;
 
-
+public void master(){
+     System.out.println("Hi Master");
 
     }
 }
